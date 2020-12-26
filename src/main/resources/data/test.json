@@ -1,0 +1,1 @@
+{ "id": "05h0300",  "userId": 48817,  "browser": "chrome",  "os": "mac",  "timestamp": 1609908178214,  "src": "amazon.com",  "clicks": { "clickCount": 2,  "clickDetails": [{ "timestamp": 1609908179214, "x": 849, "y": 206 }, { "timestamp": 1609908188214, "x": 893,  "y": 312 } ] } }
